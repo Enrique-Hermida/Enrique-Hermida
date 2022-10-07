@@ -22,8 +22,3 @@ I'm a software developer based in Monterrey. I enjoy coding open-source projects
 
 &nbsp;
 
-
-## 📊 &nbsp;Stats
-![Enrqiue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrique-Hermida&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enrique-Hermida&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Hermida)](https://github.com/anuraghazra/github-readme-stats)
